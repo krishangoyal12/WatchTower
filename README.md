@@ -186,14 +186,4 @@ node meshnet-simulator.js
 - `GET /validator-detail` - Get validator stats and rewards
 - `POST /getPayout` - Request reward withdrawal
 
----
-
-## 🙌 Team Members
-- **Aryan Kumar Singh**
-- **Harsh Thakur**
-- **Krishan Goyal**
-- **Sejal Jaswal**
-
----
-
 ## 📜 If you found this useful, don't forget to ⭐ star this repo!
